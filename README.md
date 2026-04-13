@@ -149,7 +149,4 @@ Starting Core System Validation Tests...
 ```
 *A perfect validation trace verifies that the codebase operates efficiently under a mathematically sound, exploit-free memory schema.*
 
----
 
-## 📜 License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
