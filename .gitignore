@@ -1,0 +1,10 @@
+# Executables
+*.exe
+*.o
+
+# Data Files (Recommended to exclude to let users start fresh)
+data/*.dat
+
+# Temp/Misc
+*.tmp
+.vscode/
